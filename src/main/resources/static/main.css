@@ -1,0 +1,35 @@
+body, ul, li {
+    margin: 0;
+    list-style: none;
+    padding: 0;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+.wrap {
+    background: purple;
+}
+
+.logo {
+    background: red;
+}
+
+.content-wrap {
+    background: yellow;
+    display: flex;
+}
+
+.side-menu {
+    background: blue;
+    width: 10%;
+    height: 800px;
+    text-align: center;
+}
+
+.content {
+    background: green;
+    width: 90%;
+}
